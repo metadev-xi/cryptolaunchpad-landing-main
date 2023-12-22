@@ -65,8 +65,9 @@
 
 
 .grid-bg{
-  background-image: url('../assets/images/grid.png');
+  background-image: url('../assets/video/grid.mp4');
   background-position: center;
   background-size: contain;
   background-repeat: no-repeat;
+  opacity: 0,
 }
