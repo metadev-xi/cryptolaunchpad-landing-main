@@ -9,7 +9,7 @@ import { slideIn } from "@/utils/motion";
 
 export default function Home() {
   return (
-    <main className="flex flex-col items-center bg-primary-black overflow-hidden">
+    <main className="bg-primary-black ">
       <Navbar />
       <div className="w-full h-full relative flex justify-center  ">
         <motion.div
@@ -24,9 +24,9 @@ export default function Home() {
             show: { opacity: 1, transition: { duration: 0.6, delay: 0.2 } },
           }}
         >
-          <Image src={grid} alt="grid" className="" />
+          {/* <Image src={grid} alt="grid" className="" /> */}
         </motion.div>
-        
+
         <Hero />
       </div>
       <Numbers />

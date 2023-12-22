@@ -14,11 +14,14 @@ import { slideIn } from "@/utils/motion";
 
 const Governance = () => {
   return (
-    <section className="py-8 px-8 container w-full flex flex-col gap-6">
-      <ArrowLink href="#" text="PROTOCOL GOVERNANCE" />
-      <div className="grid grid-cols-2 grid-rows-3 gap-11">
+    <section className="py-8 px-6 container mx-auto">
+      <div className="mb-4">
+        <ArrowLink href="#" text="PROTOCOL GOVERNANCE" />
+      </div>
+
+      <div className="grid grid-cols-2 gap-6">
         <motion.div
-          className="col-span-1 row-span-3"
+          className="col-span-1 row-span-3 max-lg:col-span-2 "
           initial="hidden"
           whileInView="show"
           viewport={{ once: true }}
@@ -38,7 +41,7 @@ const Governance = () => {
           </Block>
         </motion.div>
         <motion.div
-          className="col-span-1 row-span-1"
+          className="col-span-1 row-span-1 max-lg:col-span-2"
           initial="hidden"
           whileInView="show"
           viewport={{ once: true }}
@@ -50,7 +53,7 @@ const Governance = () => {
           </Block>
         </motion.div>
         <motion.div
-          className="col-span-1 row-span-1"
+          className="col-span-1 row-span-1 max-lg:col-span-2"
           initial="hidden"
           whileInView="show"
           viewport={{ once: true }}
@@ -62,7 +65,7 @@ const Governance = () => {
           </Block>
         </motion.div>
         <motion.div
-          className="col-span-1 row-span-1"
+          className="col-span-1 row-span-1 max-lg:col-span-2"
           initial="hidden"
           whileInView="show"
           viewport={{ once: true }}

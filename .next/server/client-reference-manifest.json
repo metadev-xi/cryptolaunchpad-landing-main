@@ -315,11 +315,11 @@
   },
   "__edge_ssr_module_mapping__": {},
   "__entry_css_files__": {
-    "C:\\Users\\akram\\Downloads\\Compressed\\uniswap-landing-main\\uniswap-landing-main\\app\\layout": [
+    "C:\\Users\\akram\\Downloads\\cryptolaunchpad-landing-main\\app\\layout": [
       "static/css/app/layout.css"
     ]
   },
-  "C:\\Users\\akram\\Downloads\\Compressed\\uniswap-landing-main\\uniswap-landing-main\\node_modules\\next\\dist\\client\\components\\app-router.js": {
+  "C:\\Users\\akram\\Downloads\\cryptolaunchpad-landing-main\\node_modules\\next\\dist\\client\\components\\app-router.js": {
     "": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "",
@@ -345,7 +345,7 @@
       "async": false
     }
   },
-  "C:\\Users\\akram\\Downloads\\Compressed\\uniswap-landing-main\\uniswap-landing-main\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js": {
+  "C:\\Users\\akram\\Downloads\\cryptolaunchpad-landing-main\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js": {
     "": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "",
@@ -371,7 +371,7 @@
       "async": false
     }
   },
-  "C:\\Users\\akram\\Downloads\\Compressed\\uniswap-landing-main\\uniswap-landing-main\\node_modules\\next\\dist\\client\\components\\error-boundary.js": {
+  "C:\\Users\\akram\\Downloads\\cryptolaunchpad-landing-main\\node_modules\\next\\dist\\client\\components\\error-boundary.js": {
     "": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "",
@@ -397,7 +397,7 @@
       "async": false
     }
   },
-  "C:\\Users\\akram\\Downloads\\Compressed\\uniswap-landing-main\\uniswap-landing-main\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js": {
+  "C:\\Users\\akram\\Downloads\\cryptolaunchpad-landing-main\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js": {
     "": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "",
@@ -423,7 +423,7 @@
       "async": false
     }
   },
-  "C:\\Users\\akram\\Downloads\\Compressed\\uniswap-landing-main\\uniswap-landing-main\\node_modules\\next\\dist\\client\\components\\layout-router.js": {
+  "C:\\Users\\akram\\Downloads\\cryptolaunchpad-landing-main\\node_modules\\next\\dist\\client\\components\\layout-router.js": {
     "": {
       "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
       "name": "",
@@ -449,7 +449,7 @@
       "async": false
     }
   },
-  "C:\\Users\\akram\\Downloads\\Compressed\\uniswap-landing-main\\uniswap-landing-main\\node_modules\\next\\dist\\esm\\client\\components\\layout-router.js": {
+  "C:\\Users\\akram\\Downloads\\cryptolaunchpad-landing-main\\node_modules\\next\\dist\\esm\\client\\components\\layout-router.js": {
     "": {
       "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
       "name": "",
@@ -475,7 +475,7 @@
       "async": false
     }
   },
-  "C:\\Users\\akram\\Downloads\\Compressed\\uniswap-landing-main\\uniswap-landing-main\\node_modules\\next\\dist\\client\\components\\render-from-template-context.js": {
+  "C:\\Users\\akram\\Downloads\\cryptolaunchpad-landing-main\\node_modules\\next\\dist\\client\\components\\render-from-template-context.js": {
     "": {
       "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
       "name": "",
@@ -501,7 +501,7 @@
       "async": false
     }
   },
-  "C:\\Users\\akram\\Downloads\\Compressed\\uniswap-landing-main\\uniswap-landing-main\\node_modules\\next\\dist\\esm\\client\\components\\render-from-template-context.js": {
+  "C:\\Users\\akram\\Downloads\\cryptolaunchpad-landing-main\\node_modules\\next\\dist\\esm\\client\\components\\render-from-template-context.js": {
     "": {
       "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
       "name": "",
@@ -527,7 +527,7 @@
       "async": false
     }
   },
-  "C:\\Users\\akram\\Downloads\\Compressed\\uniswap-landing-main\\uniswap-landing-main\\assets\\images\\apply.png": {
+  "C:\\Users\\akram\\Downloads\\cryptolaunchpad-landing-main\\assets\\images\\apply.png": {
     "": {
       "id": "(app-client)/./assets/images/apply.png",
       "name": "",
@@ -553,7 +553,7 @@
       "async": false
     }
   },
-  "C:\\Users\\akram\\Downloads\\Compressed\\uniswap-landing-main\\uniswap-landing-main\\assets\\images\\developersBg.png": {
+  "C:\\Users\\akram\\Downloads\\cryptolaunchpad-landing-main\\assets\\images\\developersBg.png": {
     "": {
       "id": "(app-client)/./assets/images/developersBg.png",
       "name": "",
@@ -579,7 +579,7 @@
       "async": false
     }
   },
-  "C:\\Users\\akram\\Downloads\\Compressed\\uniswap-landing-main\\uniswap-landing-main\\assets\\images\\ecosystemBg.png": {
+  "C:\\Users\\akram\\Downloads\\cryptolaunchpad-landing-main\\assets\\images\\ecosystemBg.png": {
     "": {
       "id": "(app-client)/./assets/images/ecosystemBg.png",
       "name": "",
@@ -605,7 +605,7 @@
       "async": false
     }
   },
-  "C:\\Users\\akram\\Downloads\\Compressed\\uniswap-landing-main\\uniswap-landing-main\\assets\\images\\grid.png": {
+  "C:\\Users\\akram\\Downloads\\cryptolaunchpad-landing-main\\assets\\images\\grid.png": {
     "": {
       "id": "(app-client)/./assets/images/grid.png",
       "name": "",
@@ -631,7 +631,7 @@
       "async": false
     }
   },
-  "C:\\Users\\akram\\Downloads\\Compressed\\uniswap-landing-main\\uniswap-landing-main\\assets\\images\\poster.png": {
+  "C:\\Users\\akram\\Downloads\\cryptolaunchpad-landing-main\\assets\\images\\poster.png": {
     "": {
       "id": "(app-client)/./assets/images/poster.png",
       "name": "",
@@ -657,7 +657,7 @@
       "async": false
     }
   },
-  "C:\\Users\\akram\\Downloads\\Compressed\\uniswap-landing-main\\uniswap-landing-main\\assets\\images\\unicorn.png": {
+  "C:\\Users\\akram\\Downloads\\cryptolaunchpad-landing-main\\assets\\images\\unicorn.png": {
     "": {
       "id": "(app-client)/./assets/images/unicorn.png",
       "name": "",
@@ -683,7 +683,7 @@
       "async": false
     }
   },
-  "C:\\Users\\akram\\Downloads\\Compressed\\uniswap-landing-main\\uniswap-landing-main\\app\\page.tsx": {
+  "C:\\Users\\akram\\Downloads\\cryptolaunchpad-landing-main\\app\\page.tsx": {
     "": {
       "id": "(app-client)/./app/page.tsx",
       "name": "",
@@ -709,7 +709,7 @@
       "async": false
     }
   },
-  "C:\\Users\\akram\\Downloads\\Compressed\\uniswap-landing-main\\uniswap-landing-main\\app\\globals.css": {
+  "C:\\Users\\akram\\Downloads\\cryptolaunchpad-landing-main\\app\\globals.css": {
     "default": {
       "id": "null",
       "name": "default",
@@ -718,7 +718,7 @@
       ]
     }
   },
-  "C:\\Users\\akram\\Downloads\\Compressed\\uniswap-landing-main\\uniswap-landing-main\\node_modules\\next\\font\\google\\target.css?{\"path\":\"app\\\\layout.tsx\",\"import\":\"Inter\",\"arguments\":[{\"weight\":[\"100\",\"200\",\"300\",\"400\",\"500\",\"600\",\"700\"],\"subsets\":[\"latin\"],\"display\":\"swap\"}],\"variableName\":\"inter\"}": {
+  "C:\\Users\\akram\\Downloads\\cryptolaunchpad-landing-main\\node_modules\\next\\font\\google\\target.css?{\"path\":\"app\\\\layout.tsx\",\"import\":\"Inter\",\"arguments\":[{\"weight\":[\"100\",\"200\",\"300\",\"400\",\"500\",\"600\",\"700\"],\"subsets\":[\"latin\"],\"display\":\"swap\"}],\"variableName\":\"inter\"}": {
     "default": {
       "id": "null",
       "name": "default",
@@ -727,7 +727,7 @@
       ]
     }
   },
-  "C:\\Users\\akram\\Downloads\\Compressed\\uniswap-landing-main\\uniswap-landing-main\\app\\layout.tsx": {
+  "C:\\Users\\akram\\Downloads\\cryptolaunchpad-landing-main\\app\\layout.tsx": {
     "": {
       "id": "(app-client)/./app/layout.tsx",
       "name": "",

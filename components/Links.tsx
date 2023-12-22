@@ -12,9 +12,9 @@ export const LinkText = ({ active = false, href, text }: LinkTextProps) => {
   return (
     <Link
       href={href}
-      className={`text-primary-text font-normal text-base ${
+      className={`text-primary-text font-semibold text-base ${
         !active ? "opacity-60" : ""
-      } hover:text-violet-600 transition-colors`}
+      } hover:text-green-400 transition-colors`}
     >
       {text}
     </Link>
@@ -30,7 +30,7 @@ export const LaunchLink = ({ href, text }: LinkTextProps) => {
   return (
     <Link
       href={href}
-      className="px-7 py-2.5 text-primary-text  font-normal text-base bg-[#5957ef] opacity-90 rounded-xl hover:bg-[#1d97e0] transition-colors"
+      className="px-4 py-2 text-primary-text text-sm  font-normal text-base bg-[#5957ef] opacity-90 rounded-lg hover:bg-gradient-to-r from-green-400 to-blue-500 transition-colors"
     >
       {text}
     </Link>
@@ -45,7 +45,7 @@ interface ArrowLinkProps {
 export const ArrowLink = ({ text, href }: ArrowLinkProps) => {
   return (
     <Link
-      className="flex items-center gap-2 text-lg text-primary-text font-normal hover:text-amber-300 transition-colors"
+      className="flex items-center gap-2 text-lg text-primary-text font-normal hover:text-green-400 transition-colors"
       href={href}
     >
       {text}
@@ -68,7 +68,7 @@ export const DiagArrowLink = ({
   return (
     <Link
       href={href}
-      className={`flex items-center gap-2 text-xl text-primary-text font-normal hover:text-orange-400 transition-colors ${
+      className={`flex items-center gap-2 text-xl text-primary-text font-normal hover:text-green-400 transition-colors ${
         space ? "w-full justify-between" : ""
       }`}
     >
@@ -86,7 +86,7 @@ interface ButtonLink {
 export const ButtonLink = ({ text, href }: ButtonLink) => {
   return (
     <Link
-      className="p-[2px] w-fit flex justify-center items-center text-primary-text bg-[#676b78] rounded-md hover:bg-gradient-to-r from-purple-500 to-pink-500"
+      className="p-[2px] w-fit flex justify-center items-center text-primary-text bg-[#676b78] rounded-md hover:bg-gradient-to-r from-green-400 to-blue-500"
       href={href}
     >
       <span className="flex items-center gap-2 py-2.5 px-4 font-normal text-base  bg-[#323336] rounded-md">

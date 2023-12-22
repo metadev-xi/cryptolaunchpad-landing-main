@@ -15,11 +15,13 @@ import { slideIn } from "@/utils/motion";
 
 const Developers = () => {
   return (
-    <section className="py-10 px-8 container w-full flex flex-col gap-6">
-      <ArrowLink text="DEVELOPERS" href="#" />
-      <div className="grid grid-cols-3 auto-rows-min gap-4">
+    <section className="py-8 px-6 container mx-auto">
+      <div className="mb-4">
+        <ArrowLink text="DEVELOPERS" href="#" />
+      </div>
+      <div className="grid grid-cols-3 gap-4">
         <motion.div
-          className="col-span-2"
+          className="col-span-2 flex flex-col justify-between max-lg:col-span-3"
           initial="hidden"
           whileInView="show"
           viewport={{ once: true }}
@@ -29,7 +31,7 @@ const Developers = () => {
             imgSrc={developersBg}
             imgAlt="developers"
             imgStyles="w-full h-[421px]"
-            blockStyles="w-full h-[421px] p-8 flex justify-end  flex flex-col gap-4 z-20"
+            blockStyles="w-full h-[421px] p-8 flex justify-end  flex flex-col gap-4 mb-4"
           >
             <div className="max-w-xl flex flex-col gap-4 z-20">
               <Title type="title1" text="Superpowers for DeFi developers." />
@@ -37,10 +39,23 @@ const Developers = () => {
               <ButtonLink text="Documentation" href="#" />
             </div>
           </Block>
+          <div className="grid grid-cols-2 gap-4">
+            <Block blockStyles="flex col-span-1 max-sm:col-span-2">
+              <div className="w-full h-full p-6 flex items-center">
+                <DiagArrowLink text="V3 Whitepaper" href="#" space />
+              </div>
+            </Block>
+            <Block blockStyles="flex col-span-1 max-sm:col-span-2">
+              <div className="w-full h-full p-6 flex items-center">
+                <DiagArrowLink text="Github" href="#" space />
+              </div>
+            </Block>
+          </div>
+
         </motion.div>
 
         <motion.div
-          className="row-span-2"
+          className="col-span-1 max-lg:col-span-3"
           initial="hidden"
           whileInView="show"
           viewport={{ once: true }}
@@ -58,7 +73,7 @@ const Developers = () => {
             </div>
           </Block>
         </motion.div>
-        <motion.div
+        {/* <motion.div
           className="col-span-1"
           initial="hidden"
           whileInView="show"
@@ -84,7 +99,7 @@ const Developers = () => {
               <DiagArrowLink text="Github" href="#" space />
             </div>
           </Block>
-        </motion.div>
+        </motion.div> */}
       </div>
     </section>
   );

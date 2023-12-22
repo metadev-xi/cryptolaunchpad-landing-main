@@ -1,4 +1,4 @@
-// File: C:\Users\akram\Downloads\Compressed\uniswap-landing-main\uniswap-landing-main\app\layout.tsx
+// File: C:\Users\akram\Downloads\cryptolaunchpad-landing-main\app\layout.tsx
 import * as entry from '../../../app/layout'
 import type { ResolvingMetadata } from 'next/dist/lib/metadata/types/metadata-interface'
 
