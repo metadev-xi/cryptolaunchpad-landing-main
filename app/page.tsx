@@ -9,7 +9,7 @@ import { slideIn } from "@/utils/motion";
 
 export default function Home() {
   return (
-    <main className="bg-primary-black ">
+    <main className="bg-black ">
       <Navbar />
       <div className="w-full h-full relative flex justify-center  ">
         <motion.div
