@@ -260,6 +260,32 @@
         "async": false
       }
     },
+    "(app-client)/./public/logo.png": {
+      "": {
+        "id": "(sc_client)/./public/logo.png",
+        "name": "",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      },
+      "*": {
+        "id": "(sc_client)/./public/logo.png",
+        "name": "*",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./public/logo.png",
+        "name": "default",
+        "chunks": [
+          "app/page:app/page"
+        ],
+        "async": false
+      }
+    },
     "(app-client)/./app/page.tsx": {
       "": {
         "id": "(sc_client)/./app/page.tsx",
@@ -676,6 +702,32 @@
     },
     "default": {
       "id": "(app-client)/./assets/images/unicorn.png",
+      "name": "default",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    }
+  },
+  "C:\\Users\\akram\\Downloads\\cryptolaunchpad-landing-main\\public\\logo.png": {
+    "": {
+      "id": "(app-client)/./public/logo.png",
+      "name": "",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "*": {
+      "id": "(app-client)/./public/logo.png",
+      "name": "*",
+      "chunks": [
+        "app/page:app/page"
+      ],
+      "async": false
+    },
+    "default": {
+      "id": "(app-client)/./public/logo.png",
       "name": "default",
       "chunks": [
         "app/page:app/page"

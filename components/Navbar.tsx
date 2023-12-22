@@ -1,7 +1,7 @@
 "use client";
 import Image from "next/image";
 import { motion } from "framer-motion";
-import logo from "../public/logo.svg";
+import logo from "../public/logo.png";
 import { LaunchLink, LinkText } from "./Links";
 import { navVariants } from "@/utils/motion";
 import Link from "next/link";
