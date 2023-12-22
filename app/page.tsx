@@ -26,7 +26,7 @@ export default function Home() {
             loop
             muted
             className="w-full h-full object-cover"
-            style={{ opacity: 0.5 }} // Set the opacity here
+            style={{ opacity: 0.1 }} // Set the opacity here
           >
             {/* Video source with the relative path */}
             <source src="/vedio/bg.mp4" type="video/mp4" />
